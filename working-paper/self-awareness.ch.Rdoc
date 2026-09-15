@@ -1,5 +1,6 @@
 # Cooperation-Native Distributed State
 
+
 ## Content-Addressed Temporal Ordering for Multi-Agent Systems
 
 **Authors:** Kathryn Morgan (BrainCraft.io / ContainerCraft.io)
